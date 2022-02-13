@@ -1,0 +1,13 @@
+.container{
+    display:grid;
+    grid-template-columns: 200px 500px 200px 100px;
+    grid-template-rows:100px 400px;
+}
+.content{
+    background-color:rgba(17, 54, 102, 0.411);
+    border:2px solid gray;
+}
+img{
+ width:100%;
+ height: 100%;
+}
